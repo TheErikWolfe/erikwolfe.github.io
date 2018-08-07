@@ -6358,7 +6358,7 @@ body {
   font-family: 'Maven Pro', sans-serif; }
 
 .head {
-  background-image: url("https://files.slack.com/files-pri/TA033TWNB-FBXDWRU86/untitled_design__2_.png");
+  background-image: url("./images/desktop.png");
   height: 100vh;
   background-repeat: no-repeat;
   background-position: center center;
@@ -6396,7 +6396,7 @@ i {
   font-size: 7vh; }
 
 #portfolio-section {
-  background-image: url("https://files.slack.com/files-pri/TA033TWNB-FBVE9CWV6/untitled_design__3_.png");
+  background-image: url("./images/cityscape.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover; }
